@@ -25,7 +25,7 @@ The main objectives of this project are to:
 
 ---
 
-## 🤗 What is Hugging Face?
+## What is Hugging Face?
 
 **Hugging Face** is an AI and machine learning platform that provides access to a large ecosystem of:
 
@@ -39,7 +39,7 @@ The Hugging Face Hub contains models from different organizations and research c
 
 ---
 
-## ☁️ What is the Hugging Face Inference API?
+## What is the Hugging Face Inference API?
 
 The **Hugging Face Inference API** allows applications to send requests to supported models hosted on Hugging Face and receive predictions or generated responses.
 
@@ -63,7 +63,7 @@ This approach can reduce the need for local GPU resources and simplify experimen
 
 ---
 
-## 🛠️ Key Concepts Covered
+## Key Concepts Covered
 
 ### 1. InferenceClient
 
@@ -189,7 +189,7 @@ The project considers error handling and model-loading situations when working w
 
 ---
 
-## 🔄 End-to-End Workflow
+## End-to-End Workflow
 
 ```text
 1. Create Hugging Face Access Token
@@ -209,7 +209,7 @@ The project considers error handling and model-loading situations when working w
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 * **Python**
 * **Hugging Face Hub**
@@ -220,7 +220,7 @@ The project considers error handling and model-loading situations when working w
 
 ---
 
-## 📚 Learning Outcomes
+## Learning Outcomes
 
 This project provides practical understanding of:
 
@@ -236,7 +236,7 @@ This project provides practical understanding of:
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 The project can be extended into more advanced Generative AI applications by adding:
 
@@ -254,7 +254,7 @@ The project can be extended into more advanced Generative AI applications by add
 
 ---
 
-## 🌐 Potential Applications
+## Potential Applications
 
 Hugging Face hosted models can be integrated into applications such as:
 
@@ -270,7 +270,7 @@ Hugging Face hosted models can be integrated into applications such as:
 
 ---
 
-## 📝 Conclusion
+## Conclusion
 
 This project provides a practical introduction to using the **Hugging Face Inference API** for integrating hosted open-source AI models into Python applications.
 
